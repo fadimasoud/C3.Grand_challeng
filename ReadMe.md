@@ -1,6 +1,7 @@
 Data Sources:
 
 covid.csv:
+
   COVID-19 patient pre-condition dataset
   Data obtained from Mexican government data set 
 
@@ -8,7 +9,8 @@ covid.csv:
 
 ---
 
-covid_19_data.csv & COVID19_line_list_data.csv
+covid_19_data.csv:
+
   Novel Corona Virus 2019 Dataset
   Day level information on covid-19 affected cases
 
@@ -16,7 +18,8 @@ covid_19_data.csv & COVID19_line_list_data.csv
   
 ---
 
-population_total.csv
+population_total.csv:
+
   population total from worldbank 
   
     https://data.worldbank.org/indicator/SP.POP.TOTL
@@ -24,6 +27,7 @@ population_total.csv
 ---
 
 fertility_rate.csv : 
+
   Fertility rate, total from worldbank 
      
      https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
@@ -31,6 +35,7 @@ fertility_rate.csv :
 ---
 
 life_expectancy.csv:
+
   Life expectancy at birth, total from worldbank 
   
     https://data.worldbank.org/indicator/SP.DYN.LE00.IN
@@ -38,6 +43,7 @@ life_expectancy.csv:
 ---
     
 countryLockdowndates.csv & Curfews_and_lockdowns_countries_dates.csv:
+
   COVID-19 Lockdown dates by country
   
   A list of countries and the dates that each country went into lockdown.
@@ -57,13 +63,15 @@ all-states-history(1).csv:
   COVID19_Tracking_Project
 
      https://covidtracking.com/data/download/all-states-history.csv
+     
   Data source
   
     https://covidtracking.com/
 
 ---
 
-weather_data.csv
+weather_data.csv:
+
   Weather data downloaded from
   12_Google BigQuery COVID-19 Dataset -> Weather Data for COVID-19 Research
 
