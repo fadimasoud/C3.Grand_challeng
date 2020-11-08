@@ -13,25 +13,39 @@ covid_19_data.csv & COVID19_line_list_data.csv
 
     https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
   
- population_total.csv
-   population total from worldbank 
-     https://data.worldbank.org/indicator/SP.POP.TOTL
+  
+population_total.csv
+  population total from worldbank 
+  
+    https://data.worldbank.org/indicator/SP.POP.TOTL
    
- fertility_rate.csv : 
-   Fertility rate, total from worldbank 
+fertility_rate.csv : 
+  Fertility rate, total from worldbank 
+     
      https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
     
 life_expectancy.csv:
   Life expectancy at birth, total from worldbank 
+  
     https://data.worldbank.org/indicator/SP.DYN.LE00.IN
     
     
- countryLockdowndates.csv & Curfews_and_lockdowns_countries_dates.csv:
+countryLockdowndates.csv & Curfews_and_lockdowns_countries_dates.csv:
   COVID-19 Lockdown dates by country
+  
   A list of countries and the dates that each country went into lockdown.
     
     https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country
 
 temperature _monthly_data_per_country.csv
-  https://figshare.com/articles/temperature_csv/3171766
+
+    https://figshare.com/articles/temperature_csv/3171766
   
+all-states-history(1).csv:
+
+  COVID19_Tracking_Project
+
+     https://covidtracking.com/data/download/all-states-history.csv
+  Data source
+  
+    https://covidtracking.com/
