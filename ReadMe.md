@@ -1,8 +1,10 @@
 Data Sources:
-
+---
 From the C3 Data Lake:
+---
 
 file: COVID19 CT scan Images:
+
 Source:
 
   08_U_of_Montreal_COVID-19_Image_Data_Collection
@@ -12,6 +14,7 @@ Source:
 ---
 
 file: all-states-history(1).csv
+
 Source:
 
   COVID19_Tracking_Project
