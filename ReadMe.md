@@ -2,7 +2,17 @@ Data Sources:
 
 From the C3 Data Lake:
 
-all-states-history(1).csv:
+file: COVID19 CT scan Images:
+Source:
+
+  08_U_of_Montreal_COVID-19_Image_Data_Collection
+
+    https://github.com/ieee8023/covid-chestxray-dataset.git
+
+---
+
+file: all-states-history(1).csv
+Source:
 
   COVID19_Tracking_Project
 
@@ -19,9 +29,36 @@ weather_data.csv:
   Weather data downloaded from
   12_Google BigQuery COVID-19 Dataset -> Weather Data for COVID-19 Research
 
+Source:
+
     https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=covid19_weathersource_com&t=county_day_history&page=table&project=zippy-card-293323&folder=&organizationId=
 
     https://console.cloud.google.com/storage/browser/fadi_c3_weather_data
+
+---
+Extra Datasets
+---
+
+COVID19 CT Scan from Kaggle 1:
+
+Source:
+
+  SARS-COV-2 Ct-Scan Dataset
+
+  A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification. collected from real patients in hospitals from Sao Paulo, Brazil.
+
+   https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+
+---
+
+COVID19 CT Scan from Kaggle 2:
+
+Source:
+
+  COVID-19 Lung CT Scans
+  COVID-CT-Dataset: A CT Scan Dataset about COVID-19. collected from COVID19-related papers from medRxiv, bioRxiv, NEJM, JAMA, Lancet, etc. CTs containing COVID-19 abnormalities are selected by reading the figure captions in the papers.
+
+    https://www.kaggle.com/luisblanche/covidct
 
 ---
 
